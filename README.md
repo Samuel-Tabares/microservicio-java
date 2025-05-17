@@ -95,7 +95,7 @@ El microservicio expone las siguientes APIs:
 
 ```bash
 # Clonar el repositorio
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/Samuel-Tabares/microservicio-java
 cd microservicio_proveedores_springboot
 
 # Compilar el proyecto
